@@ -28,13 +28,6 @@ body {
     color:grey;
 }
 
-.HeadingInAboutMe {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 15px;
-    color: #4aaaa5;
-    text-align: center;
-}
-
 .AboutMeSection {
     font-family:Arial, Helvetica, sans-serif;
     font-size: 15px;
@@ -44,14 +37,72 @@ body {
     border-top-width:thin;
     border-left-width:thin;
     border-right-width:thin;
-    width:400px;
+    width:650px;
+    height:auto;
     padding:10px;
     margin:50px;
     float: left;
     background: #ffffff;
     padding-bottom:10px;
-
-       
+    position: absolute;
+    top:110px;
+    
 }
+
+.AboutMeImage {
+    float:left;
+    margin:10px;
+}
+
+.HeadingInAboutMe {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: #4aaaa5;
+    text-align: center;
+}
+
+.SideBar {
+    font-family:Arial, Helvetica, sans-serif;
+    border-style:solid;
+    border-width: thin black;
+    border-bottom-width: thin;
+    border-top-width:thin;
+    border-left-width:thin;
+    border-right-width:thin;
+    position: relative;
+    margin-left:800px;
+    width:400px;
+    background: #ffffff;
+    
+}
+
+.ConnectWithMe{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color:#4aaaa5;
+}
+
+.SocialMediaIcons {
+    margin:20px;
+    padding:20px
+    
+}
+
+.Footer {
+    font-family: Arial, Helvetica, sans-serif;
+    background: grey;
+    padding: 10px;
+    position: relative;
+    bottom:-180px;
+}
+
+.FooterText {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 10px;
+    color: white;
+}
+
+
 
 
