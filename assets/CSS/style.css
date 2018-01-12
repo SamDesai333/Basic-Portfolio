@@ -135,6 +135,36 @@ body {
     margin:8px;
 }
 
+.ContactMeHeading {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: #4aaaa5;
+    text-align: center;
+}
+.ContactMe {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    border-style: solid;
+    border-width: thin rgb(3, 3, 3);
+    border-bottom-width:thin;
+    border-top-width:thin;
+    border-left-width:thin;
+    border-right-width:thin;
+    width:650px;
+    height:auto;
+    padding:10px;
+    margin:50px;
+    float: left;
+    background: #ffffff;
+    padding-bottom:10px;
+    position: absolute;
+    top:110px;
+}
+
+.ContactForm {
+    margin: 10px;
+    padding: 10px
+}
 
 
 
